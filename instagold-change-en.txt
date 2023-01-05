@@ -1,4 +1,4 @@
-What's new in version V2.90
+What's new in version V0.60
 
 [Update Base] Instagram to 249.0.0.20.105
 [Added] All the new Instagram features
