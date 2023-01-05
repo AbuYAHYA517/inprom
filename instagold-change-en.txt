@@ -1,0 +1,8 @@
+What's new in version V9.60
+
+[Update Base] Instagram to 249.0.0.20.105
+[Added] All the new Instagram features
+[Removed] Font change feature due to some problems
+[Improved] Update codes
+[Fixed] The problem with the appearance of videos is not clear
+[More] Other important fixes and improvements.
